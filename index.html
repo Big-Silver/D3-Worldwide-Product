@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Mapper App</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="job-title column">
+				<h3>Worldwide coverage</h3>
+				<p>Simply click on any country listed below to see</p>
+				<p>our range of products and services</p>
+			</div>
+			<div id="tooltip"></div>
+			<div id="map" class="row"></div>
+			<div class="row">
+				<div id="sel_country_name" class="col-sm-12 col-md-12">					
+				</div>
+				<div id="sel_country_trans" class="col-sm-12 col-md-12 d-flex justify-content-center">
+					<!-- <div class="col-md-4 col-sm-12">
+						<img src="img/d3_1.png">
+						<p>Merchandise</p>
+						<img src="img/underline.png">
+					</div>
+					<div class="col-md-4 col-sm-12">
+						<img src="img/d3_2.png">
+						<p>Digital Gift Card</p>
+						<img src="img/underline.png">
+					</div>
+					<div class="col-md-4 col-sm-12">
+						<img src="img/d3_3.png">
+						<p>Physical Gift Card</p>
+						<img src="img/underline.png">
+					</div> -->
+				</div>
+			</div>
+		</div>
+        
+
+		<!-- javascript -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        <script src="https://d3js.org/topojson.v1.min.js"></script>
+        <script src="js/worldmap.min.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

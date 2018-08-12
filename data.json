@@ -1,0 +1,546 @@
+﻿{
+    "data": [
+        {
+            "Country": "Albania",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Algeria",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Andorra",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Argentina",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Armenia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Australia",
+            "Merchandise_regional": "Merchandise",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Austria",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Azerbaijan",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Bahrain",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Belarus",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Belgium",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Bosnia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Brazil",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Bulgaria",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Canada",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Chile",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "China",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Colombia",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Costa Rica",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Croatia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Cyprus",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Czech Republic",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Denmark",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Ecuador",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Egypt",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "El Salvador",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Estonia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Finland",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "France",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Georgia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Germany",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Greece",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Guatemala",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Honduras",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Hong Kong",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Hungary",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Iceland",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "India",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Indonesia",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Ireland",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Israel",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Italy",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "India",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Japan",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Jordan",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Kazakhstan",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Kenya",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Kosovo",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Kuwait",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Kyrgyzstan",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Latvia",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Lebanon",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Liechtenstein",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Lithuania",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Luxembourg",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Macedonia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Malaysia",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Malta",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Mauritius",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Mexico",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Moldavia",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Montenegro",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Morocco",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Netherlands",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "New Zealand",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Nicaragua",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Nigeria",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Norway",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Oman",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Panama",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Peru",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Philippines",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Poland",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Portugal",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Puerto Rico",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Qatar",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Romania",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Russia",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Saudi Arabia",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Serbia",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers"
+        },
+        {
+            "Country": "Singapore",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Slovakia",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Slovenia",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers"
+        },
+        {
+            "Country": "South Africa",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "South Korea",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Spain",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Sweden",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Switzerland",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Taiwan",
+            "Merchandise_regional": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Tajikistan",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Thailand",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Tunisia"
+        },
+        {
+            "Country": "Turkey",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Turkmenistan",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "UAE",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Uganda",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Ukraine",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "United Arab Emirates",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "United Kingdom",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "United States",
+            "Merchandise": "Merchandise",
+            "Digital_Vouchers": "Digital Vouchers",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Uruguay",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Uzbekistan",
+            "Merchandise_regional": "Merchandise"
+        },
+        {
+            "Country": "Venezuela",
+            "Merchandise_regional": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        },
+        {
+            "Country": "Vietnam",
+            "Merchandise": "Merchandise",
+            "Physical_Vouchers": "Physical Vouchers"
+        }
+    ]
+}
